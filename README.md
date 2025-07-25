@@ -4,8 +4,7 @@
 
 This extension creates a remove button that appears bellow your connections in [LinkedIn's connection page](https://www.linkedin.com/mynetwork/invite-connect/connections/). This way, you only have to click once to remove a connection.
 
-[![Watch the video](https://garzuze.com/assets/thumbnail.png)](https://garzuze.com/assets/demo.mp4)
-
+https://github.com/user-attachments/assets/cef34ff8-0ef2-4a6d-a45c-9e3a03c2b021
 
 ## Why
 When I first started using LinkedIn, I thought that the more connections I had, the better. Then I ended up with a bunch of meaningless connections: people that I don't know; people that aren't in my field of interests and people that I will never talk to. So I decided to remove most of them and only connect with people that I know or that I think that can bring value to my life and career.

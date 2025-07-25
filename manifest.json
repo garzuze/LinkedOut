@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "LinkedOut: Connection Remover",
+  "version": "1.0",
+  "description": "Create buttons to remove connections in one click.",
+  "permissions": ["scripting", "activeTab"],
+  "content_scripts": [
+    {
+      "matches": ["*://www.linkedin.com/mynetwork/invite-connect/connections/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "host_permissions": [
+    "*://www.linkedin.com/*"
+  ]
+}
